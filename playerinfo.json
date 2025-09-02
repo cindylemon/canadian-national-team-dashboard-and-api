@@ -1,0 +1,274 @@
+[
+{
+    "id": 1,
+    "name": "Jessica Jian",
+    "gender": "F",
+    "team": "Junior National", 
+    "province": "ON",
+    "club": "E Badminton Training Centre",
+    "events": [ {
+        "type": "U19 GS",
+        "rank": "Nationally: 4th"
+    }
+    ]
+},
+{
+    "id": 2,
+    "name": "Thalia Leann Se",
+    "gender": "F",
+    "team":"Junior National",
+    "province": "BC",
+    "club": "ClearOne Richmond",
+    "events": [{
+        "type": "U19 XD",
+        "rank": "Nationally: 5th"
+    }
+    ]
+},
+{
+    "id": 3,
+    "name": "Chloe Wang",
+    "gender": "F",
+    "team":"Junior National",
+    "province": "ON",
+    "club": "CAN Sports Centre",
+    "events": [{
+        "type": "U19 XD",
+        "rank": "Nationally: 10th"
+    }
+    ]
+},
+{
+    "id": 4,
+    "name": "Reath Roth",
+    "gender": "M",
+    "team":"Junior National",
+    "province": "ON",
+    "club": "CAN Sports Centre",
+    "events": [{
+        "type": "U19 XD",
+        "rank": "Nationally: 8th"
+    }
+    ]
+},
+{
+    "id": 5,
+    "name": "Emma Meng",
+    "gender": "F",
+    "team":"Junior National",
+    "province": "ON",
+    "club": "Modu Club",
+    "events": [{
+        "type": "U19 GS",
+        "rank": "Nationally: 1st"
+
+    },
+    {
+        "type": "U19 GD",
+        "rank": "Nationally: 2nd"
+    },
+    {
+        "type": "U19 XD",
+        "rank": "Nationally: 1st"
+    }
+    ]
+},
+{
+    "id": 6,
+    "name": "Nathan Lee",
+    "gender": "M",
+    "team":"Junior National",
+    "province": "BC",
+    "club": "ClearOne Richmond",
+    "events": [
+        {
+        "type": "U19 BD",
+        "rank": "Nationally: 1st"
+    },
+    {
+        "type": "U19 XD",
+        "rank": "Nationally: 5th"
+    }
+    ]
+},
+{
+    "id": 7,
+    "name": "Ethan Yen",
+    "gender": "M",
+    "team":"Junior National",
+    "province": "BC",
+    "club": "ClearOne Richmond",
+    "events": [
+        {
+        "type": "U19 BD",
+        "rank": "Nationally: 1st"
+    },
+    {
+        "type": "U19 XD",
+        "rank": "Nationally: 4th"
+    }
+    ]
+},
+{
+    "id": 8,
+    "name": "Victor Lai",
+    "gender": "M",
+    "team":"Next Gen",
+    "province": "ON",
+    "club": "Mandarin Badminton",
+    "events": [{
+        "type": "MS",
+        "rank": "Nationally: 1st \n Globally: #50"
+    }
+    ]
+},
+{
+    "id": 9,
+    "name": "Wendy Zhang",
+    "gender": "F",
+    "team":"Next Gen",
+    "province": "BC",
+    "club": "ClearOne Richmond",
+    "events": [{
+        "type": "WS",
+        "rank": "Globally: #52"
+    },
+    {
+        "type": "WD",
+        "rank": "Globally: #72"
+    }
+    ]
+},
+{
+    "id": 10,
+    "name": "Jackie Dent",
+    "gender": "F",
+    "team":"Next Gen",
+    "province": "ON",
+    "club": "KC Badminton Club",
+    "events": [{
+        "type": "WD",
+        "rank": "Nationally: 4th \n Globally: #34"
+    }
+    ]
+},
+{
+    "id": 11,
+    "name": "Timothy Lock",
+    "gender": "M",
+    "team":"Next Gen",
+    "province": "ON",
+    "club": "Mandarin Badminton",
+    "events": [{
+        "type": "MS",
+        "rank": "Nationally: !!! \n Globally: !!!"
+    }
+    ]
+},
+{
+    "id": 12,
+    "name": "Josephine Wu",
+    "gender": "F",
+    "team":"National",
+    "province": "AB",
+    "club": "Modu Club",
+    "events": [{
+        "type": "XD",
+        "rank": "Nationally: !!! \n Globally: !!!"
+    },
+    {
+        "type": "WD",
+        "rank": "Nationally: !!! \n Globally: !!!"
+    }
+    ]
+},
+{
+    "id": 13,
+    "name": "Ty Lindeman",
+    "gender": "M",
+    "team":"National",
+    "province": "AB",
+    "club": "Modu Club",
+    "events": [{
+        "type": "XD",
+        "rank": "Nationally: !!! \n Globally: !!!"
+
+    },
+    {
+        "type": "MD",
+        "rank": "Nationally: !!! \n Globally: !!!"
+    }
+    ]
+},
+{
+    "id": 14,
+    "name": "Catherine Choi",
+    "gender": "F",
+    "team":"National",
+    "province": "ON",
+    "club": "Atwater Club",
+    "events": [{
+        "type": "WD",
+        "rank": "Nationally: !!! \n Globally: !!!"
+
+    }
+    ]
+},
+{
+    "id": 15,
+    "name": "Brian Yang",
+    "gender": "M",
+    "team":"National",
+    "province": "ON",
+    "club": "Mandarin Badminton",
+    "events": [{
+        "type": "MS",
+        "rank": "Nationally: !!! \n Globally: !!!"
+
+    }
+    ]
+},
+{
+    "id": 16,
+    "name": "Kevin Lee",
+    "gender": "M",
+    "team":"National",
+    "province": "AB",
+    "club": "The Glencoe Club",
+    "events": [{
+        "type": "MD",
+        "rank": "Nationally: !!! \n Globally: !!!"
+
+    }
+    ]
+},
+
+{
+    "id": 17,
+    "name": "Michelle Li",
+    "gender": "F",
+    "team":"National",
+    "province": "ON",
+    "club": "The Granite Club",
+    "events": [{
+        "type": "WS",
+        "rank": "Nationally: !!! \n Globally: !!!"
+
+    }
+    ]
+},
+
+{
+    "id": 18,
+    "name": "Nyl Yakura",
+    "gender": "M",
+    "team":"National",
+    "province": "ON",
+    "club": "KC Badminton Club",
+    "events": [{
+        "type": "XD",
+        "rank": "Nationally: !!! \n Globally: !!!"
+    }
+    ]
+}
+]

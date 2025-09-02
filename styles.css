@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #8B0000
+}
+
+.filters {
+    display: flex;
+    justify-content: center;
+    margin: 30px 0;
+}
+
+input, select {
+    border: 2px solid;
+    background-color: #FDF3D7;
+    border-color: #8B0000;
+    margin: 2px;
+}
+
+table {
+    margin: 0 auto;
+    text-align: left;
+    border: 5px solid;
+    border-color: #8B0000;
+    /* border-collapse: collapse; */
+}
+
+tr:nth-child(even) {
+    background-color: #FDF3D7;
+}
+
+tr:nth-child(odd) {
+    background-color: #e2ceb5 ;
+}
+
+tr, td, th {
+    border: 1px #f0e5d8;
+}
+
+body {
+    background-color: #FDF3D7;
+    text-alight: center;
+}

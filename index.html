@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset = "UTF-8">
+        <title>Badminton Canada Player Dashboard</title>
+        <link rel = "stylesheet" href = "styles.css">
+    </head>
+
+    <body>
+        <h1>Canadian National Team Players</h1>
+        <div class = "filters">
+            <input type = "text" id = "search" placeholder = "Search by name">
+            <select id = "select" placeholder = "Filter by province">
+                <option id = "" value = "">All Provinces</option>
+                <option id = "ab" value = "AB">Alberta</option>
+                <option id = "bc" value = "BC">British Columbia</option>
+                <option id = "mb" value = "MB">Manitoba</option>
+                <option id = "nb" value = "NB">New Brunswick</option>
+                <option id = "nl" value = "NL">Newfoundland and Labrador</option>
+                <option id = "ns" value = "NS">Nova Scotia</option>
+                <option id = "on" value = "ON">Ontario</option>
+                <option id = "pei" value = "PEI">Prince Edward Island</option>
+                <option id = "qc" value = "QC">Quebec</option>
+                <option id = "sk" value = "SK">Saskatchewan</option>
+            </select>
+        </div>
+        <table border = "1" id = "playerTable">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Team</th>
+                    <th>Province</th>
+                    <th>Event</th>
+                </tr>
+            </thead>
+            <tbody>
+                
+            </tbody>
+        </table>
+        <script src="script.js"></script>
+    </body>
+</html>
