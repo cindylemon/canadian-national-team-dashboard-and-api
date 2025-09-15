@@ -1,1 +1,1 @@
-my first "bigger" javascript/html/css project, first time using/making apis and stuff, mostly practice, incomplete, probably innacurate (i scraped it all sorry) but i really do like this project so im hoping to improve it or make it better as time goes on
+my first "bigger" javascript/html/css project, first time using/making apis and stuff, mostly practice, still adding more things!, probably innacurate (i scraped it all sorry), i really do like this project so im hoping to improve the accuracy and making it better
